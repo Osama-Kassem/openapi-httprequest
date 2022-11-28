@@ -1,4 +1,4 @@
-module github.com/canonical/openapi-httprequest
+module github.com/Osama-Kassem/openapi-httprequest
 
 require (
 	github.com/davecgh/go-spew v1.1.1 // indirect

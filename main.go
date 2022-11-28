@@ -11,11 +11,11 @@ import (
 	"sort"
 	"strings"
 
+	oas "github.com/Osama-Kassem/openapi-httprequest/openapi"
+	"github.com/Osama-Kassem/openapi-httprequest/templates"
 	"github.com/getkin/kin-openapi/openapi3"
 	"github.com/iancoleman/strcase"
 	"github.com/juju/gnuflag"
-	oas "github.com/mhemmings/openapi-httprequest/openapi"
-	"github.com/mhemmings/openapi-httprequest/templates"
 	errgo "gopkg.in/errgo.v1"
 )
 
